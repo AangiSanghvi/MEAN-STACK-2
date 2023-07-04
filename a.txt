@@ -18,4 +18,6 @@ storing/sending/uploading that code in outside server/computer = remote reposito
 CODE-
 creating current project as local-repo = git init
 to connect local and remote repo = git remote add origin https://github.com/AangiSanghvi/MEAN-STACK-2.git
-to add = git add filename
+to add = git add filename .\filename
+    git push origin master
+    aa
