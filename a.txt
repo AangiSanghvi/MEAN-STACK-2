@@ -1,0 +1,21 @@
+steps to create a project-
+1- npm init --yes
+2- install necessary libraries
+npm i express mongoose dotenv   //dotenv optional for now
+3- create folders
+app
+    src
+        config, controller, model, middleware, seed, services, routes
+------------------------------------------------------
+DOTENV (.env) AND 'PROCESS' KEYWORD
+using the above two elements you can prevent your url from being uploaded in a public environment
+------------------------------------------------------
+GIT -> code share 
+download = pull
+code in your computer = local repository
+storing/sending/uploading that code in outside server/computer = remote repository
+
+CODE-
+creating current project as local-repo = git init
+to connect local and remote repo = git remote add origin https://github.com/AangiSanghvi/MEAN-STACK-2.git
+to add = git add filename
