@@ -21,3 +21,5 @@ to connect local and remote repo = git remote add origin https://github.com/Aang
 to add = git add filename .\filename
     git push origin master
     aa
+C:\Users\Dell\OneDrive\Documents\MEAN STACK 2\app\src\config
+C:\Users\Dell\OneDrive\Documents\MEAN STACK 2\a.txt
