@@ -23,3 +23,7 @@ to add = git add filename .\filename
     aa
 C:\Users\Dell\OneDrive\Documents\MEAN STACK 2\app\src\config
 C:\Users\Dell\OneDrive\Documents\MEAN STACK 2\a.txt
+------------------------------------------------------
+JWT Token - json web token
+npm install jsonwebtoken
+generate token then(login, sigin)
